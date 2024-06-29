@@ -1,5 +1,5 @@
 # ARB Protocol: V2 Arbitrage Bot 
-### Check out the docs below to get started!
+### Check out the links below to get started!
 
 [![Twitter](https://img.shields.io/twitter/follow/ArbProtocol.svg?style=social&label=ArbProtocol)](https://twitter.com/ArbProtocol)
 [![Discord](https://img.shields.io/discord/985095351293845514?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/wcxYzfKNaE)
